@@ -195,7 +195,7 @@ header {
   border-radius: 2px;
 }
 
-/* Hero section */
+/* -----------------Hero section----------------- */
 
 .hero-section {
   background-color: var(--section-backgroun-colour);
@@ -230,7 +230,7 @@ header {
   margin-left: auto;
 }
 
-/* Main content */
+/* ------------------Main content ------------------*/
 .section-title {
   color: var(--title-text-colour);
   font-size: 36px;
@@ -255,6 +255,7 @@ header {
 .footer-section.container {
   padding-bottom: 60px;
 }
+/* ----------------Preferences--------------- */
 .preferences-list {
   display: flex;
   justify-content: space-between;
@@ -409,7 +410,7 @@ header {
   margin-bottom: 30px;
   text-align: center;
 }
-/* Regular clients */
+/* -----------------Regular clients----------------- */
 .clients-list {
   display: flex;
   justify-content: space-between;
@@ -725,6 +726,7 @@ header {
   border-radius: 50%;
   border-color: rgba(0, 0, 0, 0.1);
   background-color: inherit;
+  cursor: pointer;
   margin-top: 8px;
   margin-right: 8px;
   margin-left: auto;
